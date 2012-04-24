@@ -1,0 +1,4 @@
+KnapsackProbrem
+===============
+
+write to study
