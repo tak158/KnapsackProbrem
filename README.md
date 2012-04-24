@@ -1,4 +1,4 @@
 KnapsackProbrem
 ===============
 
-write to study
+I wrote to study KnapsackProbrem.
