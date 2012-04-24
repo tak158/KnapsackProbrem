@@ -1,2 +1,2 @@
-KnapsackProbrem
+KnapsackProblem
 ===============
